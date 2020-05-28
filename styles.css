@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://images.axios.com/krym4zMvvUQ0ID9mvQ4kg_DEvNM=/0x0:1920x1080/1920x1080/2020/02/18/1582065498831.jpg");
+}
+h1{
+color:white;
+font-size:40px;
+}
+.covid{
+position:fixed;
+    left:100px;
+    top:40px;
+    color:aqua;
+    font-size:35px;
+}
+.letter{
+color:white;
+font-size:30px;
+position:absolute;
+right:700px;
+text-indent:20px;
+}
+img{
+   width:450px;
+position:absolute;
+    bottom:4px;
+  border:5px lime dashed;
+}
